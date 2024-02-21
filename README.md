@@ -2,11 +2,11 @@
 Application based on Item-Based Collaborative Filtering 🐍 
 
 ### Step 1: Preparing the Data Set
-### Step 2: Creating User Movie Df
+### Step 2: Creating User Movie DataFrame
 ### Step 3: Making Item-Based Movie Recommendations
 ### Step 4: Preparing the Working Script
 
-# Dataset Story
+# Dataset Story 📽
 
 An online movie viewing platform wants to develop a recommendation system with a collaborative filtering method.
 The company, which is experimenting with content-based recommendation systems, wants to develop recommendations that accommodate the opinions of the community.
@@ -21,7 +21,7 @@ The dataset contains approximately 2000000 ratings for approximately 27000 movie
 
 --> For dataset : https://grouplens.org/datasets/movielens/
 
-# Step 2: Creating User Movie Df
+# Step 2: Creating User Movie DataFrame 🧠
 
 --> It is the most important step of the application
 ***
@@ -34,6 +34,6 @@ There is a solution to this situation and some reduction processes that need to 
 
 For example; Excluding movies that have a rating of less than 1000 from the study may be a solution.
 
-# Step 3: Making Item-Based Movie Recommendations
+# Step 3: Making Item-Based Movie Recommendations 🚨
 
-# Step 4: Preparing the Working Script
+# Step 4: Preparing the Working Script ✍
